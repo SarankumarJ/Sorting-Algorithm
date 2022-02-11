@@ -74,5 +74,6 @@ print(value)
 ![gitlogo](output1.png)
 ![gitlogo](output2.png)
 
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
